@@ -1,5 +1,5 @@
 # Installation Guide
-
+ 
 ## Requirements
 
 - Raspberry Pi 4B with Raspberry Pi OS installed
