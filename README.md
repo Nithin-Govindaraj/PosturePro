@@ -1,7 +1,5 @@
 # PosturePro
 
-### Real-Time Fall Detection with Offline Voice Alert  Cancellation 
-
 ## Overview
 
 Falls are a leading cause of injury-related mortality among elderly, yet existing wearable sensors suffer from poor user compliance and cloud-based vision systems demand constant internet — making them impractical in rural and resource-limited environments.
