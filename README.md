@@ -55,7 +55,7 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 
 ---
 
-## 🛠️ System Requirements
+## System Requirements
 
 <table width="100%">
 <tr>
