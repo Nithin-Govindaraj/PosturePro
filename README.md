@@ -18,13 +18,13 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 
 ## Features
 
-- 🦴 **Pose Estimation** — MediaPipe with 33 body landmarks
-- 📊 **Keypoint Smoothing** — Kalman filter for stable tracking
-- 🗳️ **Fall Classifier** — Multi-signal voting (torso angle, hip position, SAR, hip joint angle)
-- 🔔 **Smart Alert** — Periodic beep-silence pattern (2s ON / 5s OFF)
-- 🎙️ **Voice Cancellation** — Offline Vosk speech recognition to cancel false alarms
-- 📱 **SMS Alert** — GSM SIM800L notifies 3 emergency contacts instantly
-- 🌐 **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
+-  **Pose Estimation** — MediaPipe with 33 body landmarks
+-  **Keypoint Smoothing** — Kalman filter for stable tracking
+-  **Fall Classifier** — Multi-signal voting (torso angle, hip position, SAR, hip joint angle)
+-  **Smart Alert** — Periodic beep-silence pattern (2s ON / 5s OFF)
+-  **Voice Cancellation** — Offline Vosk speech recognition to cancel false alarms
+-  **SMS Alert** — GSM SIM800L notifies 3 emergency contacts instantly
+-  **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
 
 ---
 
@@ -59,8 +59,8 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 
 <table width="100%">
 <tr>
-<th width="50%" align="left">⚙️ Hardware</th>
-<th width="50%" align="left">💻 Software & Dependencies</th>
+<th width="50%" align="left"> Hardware</th>
+<th width="50%" align="left"> Software & Dependencies</th>
 </tr>
 <tr>
 <td valign="top">
