@@ -55,37 +55,41 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 
 ---
 
-## Hardware
+## 🛠️ System Requirements
 
-| #   | Component                          |
-| --- | ---------------------------------- |
-| 1   | Raspberry Pi 4B — 2GB+ RAM         |
-| 2   | MicroSD Card — 32GB                |
-| 3   | MicroSD Card Reader                |
-| 4   | USB Webcam                         |
-| 5   | USB Microphone                     |
-| 6   | Active Piezoelectric Buzzer (3.3V) |
-| 7   | SIM800L GSM Module                 |
-| 8   | Any 2G SIM                         |
-| 9   | 10µF 25V Capacitor                 |
-| 10  | 1kΩ Resistor × 1, 2kΩ Resistor × 1 |
-| 11  | 5V-5A Adapter                      |
+<table width="100%">
+<tr>
+<th width="50%" align="left">⚙️ Hardware</th>
+<th width="50%" align="left">💻 Software & Dependencies</th>
+</tr>
+<tr>
+<td valign="top">
 
----
+* *Raspberry Pi 4B* (2GB+ RAM)
+* *MicroSD Card* (32GB) & Reader
+* *USB Webcam* & *USB Microphone*
+* *Active Piezoelectric Buzzer* (3.3V)
+* *SIM000L GSM Module* & Any 2G SIM
+* *10µF 25V Capacitor*
+* *Resistors:* 1kΩ × 1, 2kΩ × 1
+* *Power:* 5V-5A Adapter
 
-## Software
+</td>
+<td valign="top">
 
-| Package     | Version |
-| ----------- | ------- |
-| Python      | 3.9     |
-| MediaPipe   | 0.10.14 |
-| OpenCV      | 4.8.0   |
-| NumPy       | 1.24.3  |
-| Vosk        | 0.3.45  |
-| SoundDevice | 0.4.6   |
-| WebRTCVAD   | 2.0.10  |
-| PySerial    | 3.5     |
-| RPi.GPIO    | 0.7.0   |
+* *Python* 3.9
+* *MediaPipe* 0.10.14
+* *OpenCV* 4.8.0
+* *NumPy* 1.24.3
+* *Vosk* 0.3.45
+* *SoundDevice* 0.4.6
+* *WebRTCVAD* 2.0.10
+* *PySerial* 3.5
+* *RPi.GPIO* 0.7.0
+
+</td>
+</tr>
+</table>
 
 ---
 
