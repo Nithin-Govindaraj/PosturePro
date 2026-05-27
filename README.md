@@ -1,6 +1,6 @@
 # PosturePro
 
-### Real-Time Fall Detection with Offline Voice Alert — Edge Deployed
+### Real-Time Fall Detection with Offline Voice Alert  Cancellation — Edge Deployed
 
 ## Overview
 
