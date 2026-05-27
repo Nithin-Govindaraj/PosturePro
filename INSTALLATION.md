@@ -14,8 +14,8 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Nithin-Govindaraj/Posture-Pro.git
-cd Posture-Pro
+git clone https://github.com/Nithin-Govindaraj/PosturePro.git
+cd PosturePro
 ```
 
 ### 2. Create Virtual Environment
