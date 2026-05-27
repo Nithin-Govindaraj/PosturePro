@@ -26,7 +26,6 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 -  **SMS Alert** — GSM SIM800L notifies 3 emergency contacts instantly
 -  **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
 
----
 
 ## System Behaviour
 
@@ -53,7 +52,6 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 - If no response for **30 seconds** → SMS sent to all 3 contacts
 - After SOS: say cancel word OR stand up → cancel SMS sent automatically
 
----
 
 ## System Requirements
 
@@ -91,7 +89,6 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 </tr>
 </table>
 
----
 
 ## Test Runs
 
@@ -104,13 +101,10 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 <img width="591" height="441" alt="Screenshot 2026-05-13 220002" src="https://github.com/user-attachments/assets/cdac5fb1-520c-4fd0-aaf2-e6141f1e9032" />
 
 
----
-
 ## Getting Started
 
 See [INSTALLATION.md](INSTALLATION.md) to set up and run the project.
 
----
 
 ## References
 
