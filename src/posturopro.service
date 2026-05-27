@@ -3,8 +3,8 @@ Description=PosturePro Fall Detection System
 After=network.target
 
 [Service]
-ExecStart=/home/pi/posturopro/venv/bin/python /home/pi/posturopro/main.py
-WorkingDirectory=/home/pi/posturopro
+ExecStart=/home/pi/posturepro/venv/bin/python /home/pi/posturepro/main.py
+WorkingDirectory=/home/pi/posturepro
 StandardOutput=inherit
 StandardError=inherit
 Restart=always
