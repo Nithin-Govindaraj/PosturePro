@@ -1,0 +1,12 @@
+mediapipe==0.10.14
+opencv-python==4.8.0.74
+<<<<<<< HEAD
+numpy>=1.23.0
+=======
+numpy==1.24.3
+>>>>>>> bdaf51b699ee6d7a75eef54687b06b6701ab23a8
+vosk==0.3.45
+sounddevice==0.4.6
+webrtcvad==2.0.10
+pyserial==3.5
+RPi.GPIO==0.7.0

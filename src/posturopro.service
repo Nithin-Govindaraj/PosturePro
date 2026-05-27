@@ -1,0 +1,14 @@
+[Unit]
+Description=PosturePro Fall Detection System
+After=network.target
+
+[Service]
+ExecStart=/home/pi/posturopro/venv/bin/python /home/pi/posturopro/main.py
+WorkingDirectory=/home/pi/posturopro
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
