@@ -1,6 +1,6 @@
 # PosturePro Version 1.0
 
-### Laptop-based fall detection prototype developed as the first version of PosturePro.
+Laptop-based fall detection prototype developed as the first version of PosturePro.
 
 ## Overview
 
@@ -12,14 +12,15 @@ This version performs real-time fall detection using a webcam and microphone on 
 - Webcam
 - Microphone
 
-**See "requirements.txt" for all dependencies.**
+See [requirements.txt](requirements.txt) for all dependencies.
 
 ## Installation
 
-**Refer to ""INSTALLATION.md"" (INSTALLATION.md) for setup instructions.**
+Refer to the [INSTALLATION.md](INSTALLATION.md) file for setup instructions.
 
 ## Project Structure
 
+```text
 Version-1/
 ├── src/
 ├── README.md
