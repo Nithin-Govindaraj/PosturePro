@@ -1,6 +1,6 @@
 # PosturePro
 
-## Overview
+## Overview:
 
 Falls are a leading cause of injury-related mortality among elderly, yet existing wearable sensors suffer from poor user compliance and cloud-based vision systems demand constant internet — making them impractical in rural and resource-limited environments.
 
@@ -14,7 +14,7 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 - SMS Alert
 - Edge Deployment
 
-## Features
+## Features:
 
 -  **Pose Estimation** — MediaPipe with 33 body landmarks
 -  **Keypoint Smoothing** — Kalman filter for stable tracking
@@ -25,7 +25,7 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 -  **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
 
 
-## System Behaviour
+## System Behaviour:
 
 ### Fall Detection
 
@@ -51,7 +51,7 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 - After SOS: say cancel word OR stand up → cancel SMS sent automatically
 
 
-## System Requirements
+## System Requirements:
 
 <table width="100%">
 <tr>
@@ -88,7 +88,7 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 </table>
 
 
-## Test Runs
+## Test Runs:
 
 <img width="588" height="437" alt="Screenshot 2026-05-13 215636" src="https://github.com/user-attachments/assets/406a014c-ca24-4f71-92d2-4a6ed5a823ce" />
 
@@ -99,12 +99,12 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 <img width="591" height="441" alt="Screenshot 2026-05-13 220002" src="https://github.com/user-attachments/assets/cdac5fb1-520c-4fd0-aaf2-e6141f1e9032" />
 
 
-## Getting Started
+## Getting Started:
 
 See [INSTALLATION.md](INSTALLATION.md) to set up and run the project.
 
 
-## Project Versions
+## Project Versions:
 
 ### [Version-1](./Version-1/)
 Laptop-based fall detection prototype using a webcam.
@@ -113,7 +113,7 @@ Laptop-based fall detection prototype using a webcam.
 Raspberry Pi based deployment with hardware integration.
 
 
-## References
+## References:
 
 [1] Lugaresi et al. — MediaPipe: A Framework for Building Perception Pipelines
 [DOI](https://doi.org/10.48550/arXiv.1906.08172)
