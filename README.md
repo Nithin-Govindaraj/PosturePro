@@ -104,6 +104,15 @@ PosturePro is a fully offline, camera-based fall detection system running entire
 See [INSTALLATION.md](INSTALLATION.md) to set up and run the project.
 
 
+## Project Versions
+
+### Version 1
+Laptop-based fall detection prototype using a webcam.
+
+### Version 2
+Raspberry Pi based deployment with hardware integration.
+
+
 ## References
 
 [1] Lugaresi et al. — MediaPipe: A Framework for Building Perception Pipelines
@@ -114,3 +123,4 @@ See [INSTALLATION.md](INSTALLATION.md) to set up and run the project.
 
 [3] Kalman — A New Approach to Linear Filtering and Prediction Problems
 [DOI](https://doi.org/10.1115/1.3662552)
+
