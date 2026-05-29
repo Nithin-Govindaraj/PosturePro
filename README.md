@@ -107,10 +107,10 @@ See [INSTALLATION.md](INSTALLATION.md) to set up and run the project.
 ## Project Versions:
 
 ### [version-1](./version-1/)
-**Laptop-based fall detection prototype using a webcam.**
+ - Laptop-based fall detection prototype using a webcam.
 
 ### version-2
-**Raspberry Pi based deployment with hardware integration.**
+ - Raspberry Pi based deployment with hardware integration.
 
 
 ## References:
