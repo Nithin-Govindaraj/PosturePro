@@ -8,8 +8,8 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/NithinGovindaraj/PosturePro-Vision-Based-Fall-Detection-System.git
-cd PosturePro-Vision-Based-Fall-Detection-System
+git clone https://github.com/NithinGovindaraj/PosturePro.git
+cd PosturePro/version-1
 ```
 
 ### 2. Create Virtual Environment
