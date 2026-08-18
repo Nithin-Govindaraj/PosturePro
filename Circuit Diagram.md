@@ -3,7 +3,8 @@
 > Power Input: 5V 5A Adapter → Raspberry Pi 4B via USB-C
 > All components draw power through Raspberry Pi GPIO pins
 
-   Images/Circuit Diagram.png
+  <img width="2000" height="1414" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/6c051841-e9d9-4ab3-ac17-3ee5bda66643" />
+
 
 
  ### Wiring Summary
